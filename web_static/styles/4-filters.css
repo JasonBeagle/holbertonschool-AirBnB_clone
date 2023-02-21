@@ -6,7 +6,7 @@
   border-radius: 4px;
 }
 
-.search-button {
+button {
   background-color: #FF5A5F;
   color: #FFFFFF;
   height: 48px;
@@ -18,7 +18,7 @@
   float: right;
 }
 
-.search-button:hover {
+search-button:hover {
   opacity: 0.9;
 }
 
